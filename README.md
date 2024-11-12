@@ -3,11 +3,11 @@
 - 🎓 I’m currently studying at Handong Global University CSEE
 - 🚀 Aspiring to become a Full-Stack Developer
 - 🧑‍💻 Currently a member of CRA (Computer Research Association)
-- 🌱 I’m expanding my knowledge in various web and backend technologies
+- 🌱 I’m expanding my knowledge in various Web and Backend technologies
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Technology Stack
 
 - **Languages**:
   - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
