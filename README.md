@@ -21,7 +21,9 @@
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - **Currently Learning**:
   - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
-  - ![ReactQuery](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)&nbsp;
+  - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)&nbsp;
+  - ![ReactQuery](https://img.shields.io/badge/-ReactQuery-0088CC?style=flat&logo=reactquery&logoColor=white)&nbsp;
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
   - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 
 ---
