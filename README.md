@@ -10,19 +10,19 @@
 ### 🛠️ My Technology Stack
 
 - **Languages**:
-  - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
-  - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
-  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)&nbsp;
-  - ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)&nbsp;
-  - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)&nbsp;
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)&nbsp;
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)&nbsp;
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 - **Frameworks & Libraries**:
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - **Currently Learning**:
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)&nbsp;
-  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-  - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+  - ![ReactQuery](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)&nbsp;
+  - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 
 ---
 
